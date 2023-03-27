@@ -73,6 +73,7 @@ PAR_VERBATIM=1 /usr/local/bin/pp \
   --link=/usr/local/lib/libbtparse.so \
   --link=/usr/lib/libxml2.so \
   --link=/lib/libz.so \
+  --link=/lib/libcrypt.so.1 \
   --link=/usr/lib/liblzma.so \
   --link=/usr/lib/libxslt.so \
   --link=/usr/lib/libexslt.so \
